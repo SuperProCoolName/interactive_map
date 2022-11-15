@@ -3,6 +3,7 @@
     "leaflet": "^1.9.1",
     "leaflet-choropleth": "^1.1.4",
     "leaflet-geonames": "^0.4.9",
+    "leaflet-mouse-position": "^1.2.0",
     "leaflet-search": "^3.0.2"
   }
 }
